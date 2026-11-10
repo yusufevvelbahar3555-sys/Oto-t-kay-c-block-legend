@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Oto Tıkla</string>
+    <string name="service_desc">Seçtiğiniz ekran noktasına belirlediğiniz aralıkta otomatik dokunma uygular.</string>
+</resources>
